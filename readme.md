@@ -6,7 +6,9 @@ Setup
     （即安装Prophesee这个文件夹）
 
 Dependencies
+
     python 3.8 or 3.9
+    
     下面以3.8为例
 
     Install packages
@@ -29,5 +31,7 @@ Dependencies
     reboot
 
 Run
+
     将待解压的raw文件均放入本文件夹目录中
+    
     python read_raw2csv.py

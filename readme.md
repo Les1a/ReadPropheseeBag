@@ -1,4 +1,5 @@
 Setup
+    https://docs.prophesee.ai/stable/installation/index.html
     运行Metavision_SDK_410_Setup.exe
     （即安装Prophesee这个文件夹）
 
